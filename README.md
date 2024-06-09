@@ -1,2 +1,1 @@
-# how_to_prompt
-# how_to_prompt
+# In this example, we illustrate how to communicate with a model to ask for information
